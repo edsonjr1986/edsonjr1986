@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edsonjr1986" alt="edsonjr1986" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
+- 🌱 Atualmente estou estudando **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
